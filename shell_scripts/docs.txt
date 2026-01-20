@@ -1,0 +1,5 @@
+Shell Scripting
+
+1. Script Structure
+2. Variables & Operators
+3. Conditionals (if-else, case, for, while, until loop)
